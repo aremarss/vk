@@ -1,6 +1,7 @@
 package domain;
 
 public class RepostInfo {
-    private String countRepost;
-    private String userRepost;
+    private int count;
+    private int userReposted;
+    private int canRepost;
 }
